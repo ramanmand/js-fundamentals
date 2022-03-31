@@ -1,3 +1,4 @@
+//just an example of tinkering with code in node repl.
 function multiply(a,b){
   return a*b;
 }
